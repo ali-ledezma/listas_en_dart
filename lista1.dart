@@ -1,4 +1,5 @@
 void main() {  
+  print("Diego Ali Ledezm Carbajal 22808051281229 gpo 6to J");
   List<int> numeros = [10, 20, 30];
   print("Lista de números enteros: ");
   print(numeros);
