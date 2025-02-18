@@ -95,6 +95,7 @@ class ProductoEspecifico extends Producto {
 }
 
 void main() {
+  print("diego ali ledezma carbajal 22308051281229");
   // Crear una instancia de ProductoEspecifico
   ProductoEspecifico productoEspecifico = ProductoEspecifico();
 
